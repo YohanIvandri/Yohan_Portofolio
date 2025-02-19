@@ -26,8 +26,7 @@
 3. Menjadwalkan Pengiriman Email dengan Job Schedule
 
    Proses ini mengotomatiskan pengiriman laporan dengan menjalankan Stored Procedure email menggunakan Job Schedule. Dengan ini, laporan premi dapat dikirim secara berkala tanpa perlu intervensi manual.
-   
-📂 Struktur Repository
+
 
 
 📌 Catatan
