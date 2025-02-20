@@ -27,6 +27,10 @@ Proses ini mengotomatiskan pengiriman laporan dengan menjalankan Stored Procedur
 
 ---
 
+## 📌 Tampilan Email
+ ![Deskripsi Gambar](Images/EMAIL.png)
+
+
 ## 📌 Catatan  
 💡 **Data yang digunakan hanya sampel dan telah dianonimkan.**  
 📌 **Silakan coba query ini pada dataset lain untuk eksplorasi lebih lanjut.**  
