@@ -5,7 +5,7 @@
 Automated reporting ini bertujuan untuk membantu **tim asuransi** dalam mengontrol pengajuan cover asuransi dengan mengidentifikasi **perbedaan nominal premi** yang dibayarkan oleh konsumen saat proses akuisisi dengan premi yang akan dibayarkan oleh **PT MCF dan MAF** kepada rekan maskapai asuransi.  
 
 ## 🚀 Assignment  
-Output dari automated reporting ini berupa **laporan harian** yang dikirimkan secara otomatis melalui email. Laporan ini menampilkan **data perbedaan nominal premi**, membantu tim asuransi dalam **pengawasan dan pengambilan keputusan**.  
+Output dari automated reporting ini berupa **laporan harian** yang dikirimkan secara otomatis melalui email. Laporan ini menampilkan **data perbedaan nominal premi**, membantu tim asuransi dalam **pengawasan dan pengambilan keputusan**. Jadwal untuk laporan ini dikirimkan ke email departmen asuransi pada **Pukul 07.00**  setiap harinya 
 
 ---
 
