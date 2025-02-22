@@ -40,10 +40,11 @@ from [fnInsurancePremi]('NoContract')
 Gantilah `<NoContract>` untuk mendapatkan hasil perhitungan premi.
 
 ---
+📊 Visualisasi Perhitungan
 
-## Tampilan Data 
+Berikut adalah contoh ilustrasi perhitungan premi asuransi dalam bentuk tabel:
 
-
+![Table Perhitungan Premi](Images/functionpremi.png)
 
 
 ---
