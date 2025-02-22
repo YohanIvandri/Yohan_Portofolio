@@ -28,3 +28,7 @@ Report automation ini digunakan oleh tim Cash Management dan IT MIS untuk memoni
 ## Penerima Email  
 - Tim Cash Management  
 - Tim IT MIS
+
+## Tampilan Email
+
+ ![Deskripsi Gambar](Images/JFTERMINATIONEMAIL.png)
