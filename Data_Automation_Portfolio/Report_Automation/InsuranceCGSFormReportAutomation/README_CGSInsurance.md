@@ -34,4 +34,3 @@ Report automation ini bertujuan untuk memonitor semua pengajuan cabang untuk pen
 ## 📌 Notes  
 ⚠️ Data dalam laporan ini hanya merupakan **sampel** dan telah **disamarkan** demi menjaga kerahasiaan informasi.  
 
-Jika ada pertanyaan atau pembaruan yang diperlukan, silakan hubungi tim terkait.  
