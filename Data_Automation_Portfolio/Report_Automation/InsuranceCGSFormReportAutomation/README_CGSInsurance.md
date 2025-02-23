@@ -29,7 +29,7 @@ Report automation ini bertujuan untuk memonitor semua pengajuan cabang untuk pen
 
 ## Tampilan Email
 
-![CgsEmail](InsuranceCGSFormReportAutomation/Images/CGSEMAIL.png)
+![CgsEmail](Images/CGSEMAIL.png)
 
 ## 📌 Notes  
 ⚠️ Data dalam laporan ini hanya merupakan **sampel** dan telah **disamarkan** demi menjaga kerahasiaan informasi.  
