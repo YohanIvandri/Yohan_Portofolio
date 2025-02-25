@@ -38,10 +38,10 @@ Data untuk proyek ini berasal dari **database internal tim collection**, dengan 
 - ✅ Validasi dan pengujian wawasan
 - 🚀 Implementasi untuk penggunaan oleh Tim Collection
 
-## Tampilan Dashboard
+## 🔍 Tampilan Dashboard
 
 ![Dashboard](Images/DashboardOD.png)
 
 ---
-Silakan berikan masukan atau saran untuk perbaikan! 😊
+
 
