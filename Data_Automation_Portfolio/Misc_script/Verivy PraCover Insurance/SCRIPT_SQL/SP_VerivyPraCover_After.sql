@@ -55,7 +55,7 @@ Set @RemainingPeriodLessThenValue=dbo.fnEPGenInsPolicyValue('RemainingPeriodLess
 Set @TenorComposition = @Tenor
 Set @IsComposition = 0
 
-	 UPDATE tdt 
+     UPDATE tdt 
      Set	
 	 IsActive = 1
 	 ,TglAkhirIns = DATEADD(MONTH, tin.tenor, TglAwalIns)
